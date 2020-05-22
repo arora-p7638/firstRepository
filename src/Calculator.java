@@ -21,5 +21,10 @@ public static void main(String[] args) {
 	System.out.println("The sum is :"+result);
 	result=varA-varB;
 	System.out.println("The differnce is :"+result);
+	// git is on branch b1
+	//adding some more lines to test
+	System.out.println("The above program shows simple addition and subtraction");
+	result=varA*varB;
+	System.out.println("The product is :"+result);
 }
 }
