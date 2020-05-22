@@ -19,6 +19,7 @@ public static void main(String[] args) {
 	varB=sc.nextInt();
 	result=varA+varB;
 	System.out.println("The sum is :"+result);
-	
+	result=varA-varB;
+	System.out.println("The differnce is :"+result);
 }
 }
